@@ -6,6 +6,8 @@ A curated list of tools, methods and tutorials for ux designers
 
 - [Lookback](https://lookback.io)
 
+- [Ux Expert Reviews](https://www.nngroup.com/articles/ux-expert-reviews/) by Nielsen Norman Group
+
 ## Use case & user flow
 
 - [Draw.io](https://www.draw.io/)
