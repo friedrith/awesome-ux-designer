@@ -1,11 +1,17 @@
-A curated list of tools, methods and tutorials for ux designers. All softwares I personally used are indicated with a ✔️ . Each software may appears in several categories. Besides in each category, tools are ordered by alphabetical order. If you have any feedbacks on some of these tools, don't hesitate to push an [issue](https://github.com/friedrith/curated-list-ux-designer/issues) to discuss about it.
+A curated list of digital tools, methods and tutorials for ux designers. All softwares I personally used are indicated with a ✔️ . Each software may appears in several categories. Besides in each category, tools are ordered by alphabetical order. If you have any feedbacks on some of these tools, don't hesitate to push an [issue](https://github.com/friedrith/curated-list-ux-designer/issues) to discuss about it.
 
-## User research & feedbacks
+## User research & Evaluation
 
 ### Tools
 
+- [Google Analytics](https://analytics.google.com/)
+- [Hotjar](https://www.hotjar.com/)
 - [Lookback](https://lookback.io)
+- [UsabilityHub](https://usabilityhub.com/)
+- [Usabilla](https://usabilla.com/)
 - [UserBit](https://userbitapp.com/)
+- [UserTesting](https://www.usertesting.com/)
+- [UserZoom](https://www.userzoom.com/)
 
 Quantitative research:
 
@@ -34,9 +40,13 @@ Quantitative research:
 - [Axure](https://www.axure.com/)
 - [Balsamiq](https://balsamiq.com/) ✔️
 - [Edraw Max](https://www.edrawsoft.com/wireframe/)
+- [Figma](https://www.figma.com/)
+- [Framer X](https://www.framer.com/)
 - [Invision Studio](https://www.invisionapp.com/studio)
 - [JustInMind](https://www.justinmind.com/)
 - [Marvel](https://marvelapp.com/)
+- [Sketch](https://www.sketch.com/)
+- [Xd Designer](https://www.adobe.com/products/xd.html)
 
 ## Collaboration
 
