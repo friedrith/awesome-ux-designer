@@ -2,8 +2,7 @@ A curated list of digital tools, methods and tutorials for ux designers. All sof
 
 ## User research & Evaluation
 
-### Tools
-
+- [EnjoyHQ](https://getenjoyhq.com/)
 - [Google Analytics](https://analytics.google.com/)
 - [Hotjar](https://www.hotjar.com/)
 - [Lookback](https://lookback.io)
