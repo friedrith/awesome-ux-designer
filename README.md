@@ -27,10 +27,14 @@ Quantitative research:
 - [Creatly](https://creately.com/)
 - [Draw.io](https://www.draw.io/)
 - [FlowMapp](https://flowmapp.com/)
+- [Lucidhart](https://www.lucidchart.com/pages/)
 - [Miro](https://miro.com/) ✔️
 - [MockFlow](https://www.mockflow.com/)
+- [Omnigraffle](https://www.omnigroup.com/omnigraffle/)
 - [Overflow.io](https://overflow.io/)
 - [PrimaryApp](https://www.primary.app)
+- [User Flows](https://abynim.github.io/UserFlows/) (sketch plugin)
+- [VisualParadigm Online Diagrams](https://online.visual-paradigm.com/fr/diagrams/features/website-user-flow-tool/)
 - [Whimsical](https://whimsical.com) ✔️
 - [Wireflow](http://wireflow.co)
 
