@@ -44,6 +44,7 @@ Quantitative research:
 - [Invision Studio](https://www.invisionapp.com/studio)
 - [JustInMind](https://www.justinmind.com/)
 - [Marvel](https://marvelapp.com/)
+- [Mockplus RP](https://www.mockplus.com/mockplus-rp)
 - [Sketch](https://www.sketch.com/)
 - [Xd Designer](https://www.adobe.com/products/xd.html) ✔️
 
