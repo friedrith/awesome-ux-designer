@@ -41,6 +41,7 @@ Quantitative research:
 
 ## ✏️ Mockups & prototypes
 
+- [Affinity](https://affinity.serif.com/fr/)
 - [Axure](https://www.axure.com/)
 - [Balsamiq](https://balsamiq.com/) ✔️
 - [Edraw Max](https://www.edrawsoft.com/wireframe/)
@@ -51,7 +52,12 @@ Quantitative research:
 - [Marvel](https://marvelapp.com/)
 - [Mockplus RP](https://www.mockplus.com/mockplus-rp)
 - [Sketch](https://www.sketch.com/)
+- [Pencil](https://pencil.evolus.vn/)
+- [Proto.io](https://proto.io/)
+- [UxPin](https://www.uxpin.com/)
+- [Webflow](https://webflow.com/)
 - [Xd Designer](https://www.adobe.com/products/xd.html) ✔️
+- [Zeplin](https://zeplin.io/)
 
 ## 🤝 Collaboration
 
