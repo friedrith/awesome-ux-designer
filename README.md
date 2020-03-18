@@ -69,3 +69,9 @@ Quantitative research:
 - [The Best Prototyping Tools for 2018](https://www.awwwards.com/the-best-prototyping-tools-for-2018.html)
 - [Differences between task flows, user flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
 - [Ux Expert Reviews](https://www.nngroup.com/articles/ux-expert-reviews/) by Nielsen Norman Group
+
+### Collaboration between Ux designers and PO & Developers
+
+- https://medium.com/@melissaperri/labeling-ourselves-17218fd4456f
+- https://uxdesign.cc/5-principles-for-better-designer-developer-collaboration-36b4094887db
+- https://xd.adobe.com/ideas/perspectives/leadership-insights/fostering-designer-developer-collaboration/
