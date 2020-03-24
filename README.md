@@ -35,7 +35,9 @@ Quantitative research:
 - [PrimaryApp](https://www.primary.app)
 - [User Flows](https://abynim.github.io/UserFlows/) (sketch plugin)
 - [Timblee](https://timblee.com/)
-- [VisualParadigm Online Diagrams](https://online.visual-paradigm.com/fr/diagrams/features/website-user-flow-tool/)
+- [VisualParadigm Online
+  Diagrams](https://online.visual-paradigm.com/fr/diagrams/features/website-user-flow-tool/)
+- [VoiceFlow](https://www.voiceflow.com/)
 - [Whimsical](https://whimsical.com) ✔️
 - [Wireflow](http://wireflow.co)
 
