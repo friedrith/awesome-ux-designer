@@ -8,7 +8,7 @@ Each software may appears in several categories. Besides in each category, tools
 
 - [EnjoyHQ](https://getenjoyhq.com/)
 - [Google Analytics](https://analytics.google.com/)
-- [Hotjar](https://www.hotjar.com/)
+- [Hotjar](https://www.hotjar.com/) ✔️
 - [Lookback](https://lookback.io)
 - [UsabilityHub](https://usabilityhub.com/)
 - [Usabilla](https://usabilla.com/)
@@ -43,6 +43,7 @@ Quantitative research:
 
 ## ✏️ Mockups & prototypes
 
+- [Adobe XD](https://www.adobe.com/products/xd.html) ✔️
 - [Affinity](https://affinity.serif.com/fr/)
 - [Axure](https://www.axure.com/)
 - [Balsamiq](https://balsamiq.com/) ✔️
@@ -58,15 +59,27 @@ Quantitative research:
 - [Proto.io](https://proto.io/)
 - [UxPin](https://www.uxpin.com/)
 - [Webflow](https://webflow.com/)
-- [Xd Designer](https://www.adobe.com/products/xd.html) ✔️
 - [Zeplin](https://zeplin.io/)
 
 ## 🤝 Collaboration
 
 - [Invision](https://www.invisionapp.com/) ✔️
 
+## Design systems & guidelines
+
+- [A list of design systems](https://designsystemsrepo.com/design-systems)
+- [Another list of design systems](https://www.designerlynx.co/design-systems)
+- [Apple guidelines](https://developer.apple.com/design/)
+- [Introduction to
+  design](https://www.designbetter.co/design-systems-handbook/introducing-design-systems)
+- [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+- [Laws of Ux](https://lawsofux.com/)
+- [Marvel styleguide](https://marvelapp.com/styleguide/overview/introduction)
+- [Material Design](https://material.io/design/)
+
 ## Other links
 
+- [Roadmap for a ux/ui designer](https://github.com/togiberlin/ui-ux-designer-roadmap)
 - [The Designer / Developer Toolbox for 2018](https://blog.prototypr.io/the-designer-developer-toolbox-for-2018-10395afb4e07)
 - [The Best Prototyping Tools for 2018](https://www.awwwards.com/the-best-prototyping-tools-for-2018.html)
 - [Differences between task flows, user flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
