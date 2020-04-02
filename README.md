@@ -69,6 +69,7 @@ Quantitative research:
 
 - [A list of design systems](https://designsystemsrepo.com/design-systems)
 - [Another list of design systems](https://www.designerlynx.co/design-systems)
+- [Ant Design](https://ant.design/)
 - [Apple guidelines](https://developer.apple.com/design/)
 - [Introduction to
   design](https://www.designbetter.co/design-systems-handbook/introducing-design-systems)
@@ -77,9 +78,16 @@ Quantitative research:
 - [Marvel styleguide](https://marvelapp.com/styleguide/overview/introduction)
 - [Material Design](https://material.io/design/)
 
+## Training
+
+- [Les Gobelins - Ux Design
+  Certification](https://www.gobelins.fr/formation/mc11-ux-design-certification-gobelins)
+  (in french only)
+- [Interaction Design Foundation](https://www.interaction-design.org/)
+- [Roadmap for a ux/ui designer](https://github.com/togiberlin/ui-ux-designer-roadmap)
+
 ## Other links
 
-- [Roadmap for a ux/ui designer](https://github.com/togiberlin/ui-ux-designer-roadmap)
 - [The Designer / Developer Toolbox for 2018](https://blog.prototypr.io/the-designer-developer-toolbox-for-2018-10395afb4e07)
 - [The Best Prototyping Tools for 2018](https://www.awwwards.com/the-best-prototyping-tools-for-2018.html)
 - [Differences between task flows, user flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
