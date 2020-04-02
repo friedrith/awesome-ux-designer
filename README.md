@@ -45,6 +45,7 @@ Quantitative research:
 
 - [Adobe XD](https://www.adobe.com/products/xd.html) ✔️
 - [Affinity](https://affinity.serif.com/fr/)
+- [Animockup](https://animockup.com/)
 - [Axure](https://www.axure.com/)
 - [Balsamiq](https://balsamiq.com/) ✔️
 - [Edraw Max](https://www.edrawsoft.com/wireframe/)
