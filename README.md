@@ -6,19 +6,64 @@ Each software may appears in several categories. Besides in each category, tools
 
 ## 🔎 User research & Evaluation
 
+- [Airtable](https://airtable.com/)
+- [Appcues](https://www.appcues.com/)
+- [CrazyEgg](https://www.crazyegg.com/)
+- [Dscout](https://dscout.com/)
 - [EnjoyHQ](https://getenjoyhq.com/)
+- [Focus Vision](https://www.focusvision.com/)
+- [FullStory](https://www.fullstory.com/)
 - [Google Analytics](https://analytics.google.com/)
+- [GotoToMeeting](https://www.gotomeeting.com/)
+- [Heap Analytics](https://heapanalytics.com/)
 - [Hotjar](https://www.hotjar.com/) ✔️
+- [Kissmetrics](https://www.kissmetricshq.com/)
 - [Lookback](https://lookback.io)
+- [Loop11](https://www.loop11.com/)
+- [Optimal Workshop](https://www.optimalworkshop.com/)
+- [Optimizely](https://www.optimizely.com/)
+- [PingPong](https://www.hellopingpong.com/)
 - [UsabilityHub](https://usabilityhub.com/)
 - [Usabilla](https://usabilla.com/)
 - [UserBit](https://userbitapp.com/)
+- [UserBrain](https://userbrain.net/)
+- [Userlytics](https://www.userlytics.com/)
 - [UserTesting](https://www.usertesting.com/)
+- [UserVoice](https://www.uservoice.com/)
 - [UserZoom](https://www.userzoom.com/)
+- [VWO](https://vwo.com/)
+- [YesInsights](https://www.yesinsights.com/)
+- [Zoom](https://zoom.us/)
 
-Quantitative research:
+Recruting:
 
+- [Ethnio](https://ethn.io/)
+- [Respondent](https://www.respondent.io/)
+- [UserInterviews](https://www.userinterviews.com/)
+- [Validtely](https://validately.com/)
+
+Schedule interviews:
+
+- [Calendly](https://calendly.com/)
+- [Doodle](https://doodle.com/)
+- [YouCanBookMe](https://youcanbook.me/)
+
+Note-Taking/Transcription Tools:
+
+- [ConfirmKit](https://www.confirmkit.com/)
+- [Evernote](https://evernote.com/)
+- [Pear Note](http://www.usefulfruit.com/pearnote/) for macOS
+- [Rev](https://www.rev.com/)
+- [Trint](https://trint.com/)
+
+Survey tools:
+
+- [Google Forms](https://www.google.com/forms/about/)
+- [Google Surveys](https://marketingplatform.google.com/about/surveys/)
+- [Qualtrics](https://www.qualtrics.com/)
 - [SurveyMonkey](https://surveymonkey.com)
+- [Survey Gizmo](https://www.surveygizmo.com/)
+- [Typeform](https://www.typeform.com/)
 
 ## ⎇ Use case & user flow
 
@@ -89,6 +134,7 @@ Quantitative research:
 
 ## Other links
 
+- [User research tools in 2019](https://www.userinterviews.com/ux-research-field-guide-chapter/user-research-tools)
 - [The Designer / Developer Toolbox for 2018](https://blog.prototypr.io/the-designer-developer-toolbox-for-2018-10395afb4e07)
 - [The Best Prototyping Tools for 2018](https://www.awwwards.com/the-best-prototyping-tools-for-2018.html)
 - [Differences between task flows, user flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
