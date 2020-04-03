@@ -17,6 +17,7 @@ Each software may appears in several categories. Besides in each category, tools
 - [GotoToMeeting](https://www.gotomeeting.com/)
 - [Heap Analytics](https://heapanalytics.com/)
 - [Hotjar](https://www.hotjar.com/) ✔️
+- [Kameleoon](https://www.kameleoon.com/fr)
 - [Kissmetrics](https://www.kissmetricshq.com/)
 - [Lookback](https://lookback.io)
 - [Loop11](https://www.loop11.com/)
@@ -74,6 +75,7 @@ Survey tools:
 - [FlowMapp](https://flowmapp.com/)
 - [Lucidhart](https://www.lucidchart.com/pages/)
 - [Miro](https://miro.com/) ✔️
+- [Mural](https://mural.co/)
 - [MockFlow](https://www.mockflow.com/)
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle/)
 - [Overflow.io](https://overflow.io/)
