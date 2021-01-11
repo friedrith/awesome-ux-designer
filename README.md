@@ -152,3 +152,7 @@ Survey tools:
 - https://medium.com/@melissaperri/labeling-ourselves-17218fd4456f
 - https://uxdesign.cc/5-principles-for-better-designer-developer-collaboration-36b4094887db
 - https://xd.adobe.com/ideas/perspectives/leadership-insights/fostering-designer-developer-collaboration/
+
+## Other links
+
+- [Reading list](./reading-list.md)
