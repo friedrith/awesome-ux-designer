@@ -14,3 +14,9 @@
 
 - [Remote Design Work: Top Challenges](https://www.nngroup.com/articles/remote-design-challenges/?ref=uxdesignweekly)
 - [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/): very interesting because documented with statistics
+- [Brand Vocabulary in the Context of UX: Key Terms Defined](https://www.nngroup.com/articles/ux-brand-terms-defined/)
+
+## March 
+
+- [Mind the gap — important UX research skills that are absent from bootcamps](https://uxdesign.cc/mind-the-gap-important-ux-research-skills-that-are-absent-from-bootcamps-a6c8c8fd640c)
+- [How to get started with VR interface design](https://www.invisionapp.com/inside-design/vr-interface-design/)
