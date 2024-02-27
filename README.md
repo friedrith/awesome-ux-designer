@@ -18,7 +18,6 @@ Each software may appears in several categories. Besides in each category, tools
 - [Heap Analytics](https://heapanalytics.com/)
 - [Hotjar](https://www.hotjar.com/) ✔️
 - [Kameleoon](https://www.kameleoon.com/fr)
-- [Kissmetrics](https://www.kissmetricshq.com/)
 - [Lookback](https://lookback.io)
 - [Loom](https://www.loom.com/)
 - [Loop11](https://www.loop11.com/)
@@ -99,7 +98,7 @@ Survey tools:
 - [Axure](https://www.axure.com/)
 - [Balsamiq](https://balsamiq.com/) ✔️
 - [Edraw Max](https://www.edrawsoft.com/wireframe/)
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/) ✔️
 - [Framer X](https://www.framer.com/)
 - [Invision Studio](https://www.invisionapp.com/studio)
 - [JustInMind](https://www.justinmind.com/)
@@ -112,6 +111,7 @@ Survey tools:
 - [UxPin](https://www.uxpin.com/)
 - [Webflow](https://webflow.com/)
 - [Zeplin](https://zeplin.io/)
+- [Freeform](https://apps.apple.com/fr/app/freeform/id6443742539)
 
 ## 🤝 Collaboration
 
