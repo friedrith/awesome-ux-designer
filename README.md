@@ -67,6 +67,7 @@ Survey tools:
 - [SurveyMonkey](https://surveymonkey.com)
 - [Survey Gizmo](https://www.surveygizmo.com/)
 - [Typeform](https://www.typeform.com/)
+- [feedback.tools](https://feedback.tools/)
 
 ## ⎇ Use case & user flow
 
